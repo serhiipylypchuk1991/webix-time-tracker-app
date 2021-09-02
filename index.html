@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Webix Time Tracker</title>
+		<meta charset="utf-8">
+
+		<!-- Webix sources -->
+		<script type="text/javascript" src="https://cdn.webix.com/edge/webix.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.webix.com/edge/webix.css">
+		<link rel="stylesheet" href="https://cdn.materialdesignicons.com/2.7.94/css/materialdesignicons.css?v=8.1.0" type="text/css" charset="utf-8">
+
+		<!--App sources -->
+		<script>
+			const today_date = new Date(2021, 7, 24);
+		</script>
+		<script type="text/javascript" src="js/toolbar.js"></script>
+		<script type="text/javascript" src="js/subbar.js"></script>
+		<script type="text/javascript" src="js/datatable.js"></script>
+
+		<link rel="stylesheet" type="text/css" href="css/index.css" charset="utf-8">
+	</head>
+	<body>
+		<script type="text/javascript">
+			webix.ready(function(){
+				webix.ui({
+					type:"clean",
+					rows:[
+						toolbar,
+						subbar,
+						datatable
+					]
+				});
+			});
+		</script>
+	</body>
+</html>

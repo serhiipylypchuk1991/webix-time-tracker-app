@@ -1,0 +1,13 @@
+
+span.webix_icon.mdi.mdi-play-circle{
+	font-size:27pt;
+}
+
+span.webix_icon.mdi.mdi-pause-circle{
+	font-size:27pt;
+	color: red;
+}
+
+button.webix_icon_button:hover{
+	background-color:rgb(244,245,249);
+}
