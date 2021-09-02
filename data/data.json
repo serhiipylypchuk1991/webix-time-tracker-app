@@ -1,0 +1,17 @@
+[
+	{ "id":"1", "date":"08/23/2021", "department":"Development", "project":"Book Store App", "task":"Create a toolbar with controls", "time":5000000 },
+	{ "id":"2", "date":"08/23/2021", "department":"Development", "project":"Book Store App", "task":"Add extra columns", "time":23800000 },
+	{ "id":"3", "date":"08/24/2021", "department":"Development", "project":"Book Store App", "task":"Add search bar", "time":0 },
+	{ "id":"4", "date":"08/25/2021", "department":"Development", "project":"Booking App", "task":"Custom logic for the search", "time":0 },
+	{ "id":"5", "date":"08/25/2021", "department":"Development", "project":"Booking App", "task":"Add search bar", "time":0 },
+	{ "id":"6", "date":"08/26/2021", "department":"Development", "project":"Booking App", "task":"Create form with controls", "time":0 },
+	{ "id":"7", "date":"08/26/2021", "department":"Development", "project":"Car Rental App", "task":"Update links", "time":0 },
+	{ "id":"8", "date":"08/27/2021", "department":"Development", "project":"Car Rental App", "task":"Add footer with content", "time":0 },
+	{ "id":"9", "date":"08/27/2021", "department":"Development", "project":"Car Rental App", "task":"Add filters", "time":0 },
+	{ "id":"10", "date":"08/24/2021", "department":"QA", "project":"Book Store App", "task":"Test all features", "time":0 },
+	{ "id":"11", "date":"08/26/2021", "department":"QA", "project":"Booking App", "task":"Test all features", "time":0 },
+	{ "id":"12", "date":"08/27/2021", "department":"QA", "project":"Car Rental App", "task":"Test all features", "time":0 },
+	{ "id":"13", "date":"08/24/2021", "department":"Documentation", "project":"Book Store App", "task":"Describe all methods and properties", "time":0 },
+	{ "id":"14", "date":"08/26/2021", "department":"Documentation", "project":"Booking App", "task":"Describe all methods and properties", "time":0 },
+	{ "id":"15", "date":"08/27/2021", "department":"Documentation", "project":"Car Rental App", "task":"Describe all methods and properties", "time":0 }
+]
